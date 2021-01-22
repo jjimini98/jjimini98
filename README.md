@@ -4,7 +4,7 @@
 👋Hello I'm Jimin Yoo. 
 
 📚 Major : Bigdata Engineering                                              
-📫 Contact: [blog](https://growingarchive.tistory.com/) [instagram](https://www.instagram.com/ggrowingtree/) [email](jjimini98@naver.com)                                
+📫 Contact: [blog](https://growingarchive.tistory.com/) [instagram](https://www.instagram.com/ggrowingtree/)                       
 🌱 I’m currently learning Django , Flask
 
 

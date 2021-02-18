@@ -5,7 +5,7 @@
 
 📚 Major : Bigdata Engineering                                              
 📫 Contact: [blog](https://growingarchive.tistory.com/) [instagram](https://www.instagram.com/ggrowingtree/)                       
-🌱 I’m currently learning algorithm, html 
+🌱 I’m currently learning ???
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats) 

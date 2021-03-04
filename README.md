@@ -4,10 +4,10 @@
 
 👋Hello I'm Jimin Yoo.  
 
-📚 Major : Bigdata Engineering      
+📚 Major :  Bigdata Engineering      
 🌱 I’m currently learning Django , Flask,  C++ , algorithm          
 🧐 My personal Blog : https://growingarchive.tistory.com/                                                                              
-📫 Contact: [Instagram](https://www.instagram.com/ggrowingtree/)       [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)          [email](jjimini98@naver.com)
+📫 Contact : [Instagram](https://www.instagram.com/ggrowingtree/)       [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)       
 
 
 ✔️ 1 Day 1 Commit (2021.01.01~ ing)                 

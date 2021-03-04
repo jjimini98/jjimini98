@@ -7,7 +7,7 @@
 📚 Major : Bigdata Engineering      
 🌱 I’m currently learning Django , Flask,  C++ , algorithm          
 🧐 My personal Blog : https://growingarchive.tistory.com/                                                                              
-📫 Contact: [Instagram](https://www.instagram.com/ggrowingtree/)       [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)  
+📫 Contact: [Instagram](https://www.instagram.com/ggrowingtree/)       [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)          [email](jjimini98@naver.com)
 
 
 ✔️ 1 Day 1 Commit (2021.01.01~ ing)                 
@@ -17,7 +17,7 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

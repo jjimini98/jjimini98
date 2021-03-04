@@ -4,8 +4,10 @@
 
 👋Hello I'm Jimin Yoo. 
 
-📚 Major : Bigdata Engineering                                              
-📫 Contact: [blog](https://growingarchive.tistory.com/) [instagram](https://www.instagram.com/ggrowingtree/)                       
+📚 Major : Bigdata Engineering      
+🌱 I’m currently learning Django , C++ , algorithm  
+🧐 My personal Blog : https://growingarchive.tistory.com/                                                                              
+📫 Contact: [instagram](https://www.instagram.com/ggrowingtree/) [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)                 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats) 

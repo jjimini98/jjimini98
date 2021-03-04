@@ -10,7 +10,7 @@
 📫 Contact: [Instagram](https://www.instagram.com/ggrowingtree/)       [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)  
 
 
-✔️ 1 Day 1 Commit (2021.01.01~ ing) 
+✔️ 1 Day 1 Commit (2021.01.01~ ing)                                                      
 ✔️ 1 Day 1 BOJ (2021.03.05~ ing) 
 
 

@@ -1,6 +1,7 @@
 ### Hi there 👋                       
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjimini98&count_bg=%23E55516&title_bg=%23A2C639&icon=&icon_color=%23000000&title=counts&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
 👋Hello I'm Jimin Yoo. 
 
 📚 Major : Bigdata Engineering                                              
@@ -8,7 +9,7 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

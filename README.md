@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjimini98&count_bg=%23E55516&title_bg=%23A2C639&icon=&icon_color=%23000000&title=counts&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-👋Hello I'm Jimin.  
+👋Hello I'm Jimin Yoo.  
 
 📚 Major : Bigdata Engineering      
 🌱 I’m currently learning Django , Flask,  C++ , algorithm          

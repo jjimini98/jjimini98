@@ -14,8 +14,14 @@
 ✔️ 1 Day 1 BOJ (2021.03.05~ ing) 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jjimini98)](https://solved.ac/kinetic27)
+
+
 
 
 <!--

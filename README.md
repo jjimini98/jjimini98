@@ -10,7 +10,7 @@
 🌱 I’m currently learning  Flask ,  C++ , Algorithm          
 
 🧐 My personal Blog : https://growingarchive.tistory.com/             
-📫 Contact : jjimini98@naver.com [Instagram](https://www.instagram.com/ggrowingtree/)      [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)       
+📫 Contact : jjimini98@naver.com, [Instagram](https://www.instagram.com/ggrowingtree/), [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)       
 😎 I want to be an awesome developer :)
 
 ✔️ 1 Day 1 Commit (2021.01.01~ ing)                 

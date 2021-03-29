@@ -5,9 +5,9 @@
 👋Hello I'm Jimin Yoo  
  
 📚 Major :  Bigdata Engineering      
-🤔 I'm intresed in Backend, ML/DL, Database                                                 
+🤔 I'm interested in Backend, ML/DL, Database                                                 
 💻 Tech Stack : Python, Java, SQL, R, C++, Flask, Android Studio, Git                                                 
-🌱 I’m currently learning  Flask ,  C++ , Algorithm          
+🌱 I’m currently learning  Flask,  C++, Algorithm          
 
 🧐 My personal Blog : https://growingarchive.tistory.com/             
 📫 Contact : jjimini98@naver.com, [Instagram](https://www.instagram.com/ggrowingtree/), [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)       

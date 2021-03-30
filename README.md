@@ -6,7 +6,7 @@
  
 📚 Major :  Bigdata Engineering      
 🤔 I'm interested in Backend, ML/DL, Database                                                 
-💻 Tech Stack : Python, Java, SQL, R, C++, Flask, Android Studio, Git                                                 
+💻 Tech Stack : Python, Java, SQL, R, C++, Git, Android Studio, Flask                                                 
 🌱 I’m currently learning  Flask,  C++, Algorithm          
 
 🧐 My personal Blog : https://growingarchive.tistory.com/             
@@ -14,7 +14,10 @@
 😎 I want to be an awesome developer :)
 
 ✔️ 1 Day 1 Commit (2021.01.01~ ing)                 
-✔️ 1 Day 1 BOJ (2021.03.05~ ing)                                       
+✔️ 1 Day 1 BOJ (2021.03.05~ ing) [GO](https://github.com/jjimini98/BOJ)                                                                  
+✔️ 1 Day 1 BIQ (2021.03.20~ ing) [GO](https://github.com/jjimini98/Backend_Interview_Question)
+
+🏃 Personal Project (21.03.21~ ing)    [GO](https://github.com/jjimini98/SecurityLight)                                                         
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jjimini98)](https://solved.ac/kinetic27)
 

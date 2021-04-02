@@ -19,9 +19,9 @@
 
 🏃 Personal Project (21.03.21~ ing)    [GO](https://github.com/jjimini98/SecurityLight)                                                         
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jjimini98)](https://solved.ac/kinetic27)
 
 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jjimini98)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -31,6 +31,9 @@
 
 <!--
 **jjimini98/jjimini98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jjimini98)](https://solved.ac/jjimini98)
+
 
 Here are some ideas to get you started:
 

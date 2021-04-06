@@ -20,7 +20,7 @@
 🏃 Personal Project (21.03.21~ ing)    [GO](https://github.com/jjimini98/SecurityLight)                                                         
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jjimini98)](https://solved.ac/jjimini98)                                          
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jjimini98)](https://solved.ac/jjimini98)           [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jimin)](https://github.com/anuraghazra/github-readme-stats)                                   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

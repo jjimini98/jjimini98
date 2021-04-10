@@ -25,6 +25,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+Python     9 hrs 8 mins    ████████████████████▒░░░░   81.38 % 
+C++        1 hr 46 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+HTML       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+```
 <!--END_SECTION:waka-->
 
       

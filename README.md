@@ -5,7 +5,7 @@
 👋Hello I'm Jimin Yoo  
  
 📚 Major :  Bigdata Engineering      
-🤔 I'm interested in Backend, ML/DL, Database          
+🤔 I'm interested in Backend, Deep Learning, Database          
 😎 I want to be an awesome developer :)                 
 
 💻 Tech Stack : Python, Java, SQL, R, C++, Git, Android Studio, Flask                                                 

@@ -18,7 +18,7 @@
 ✔️ 1 Day 1 BOJ (2021.03.05~ ing) [GO](https://github.com/jjimini98/BOJ)                                                                  
 ✔️ 1 Day 1 BQ (2021.03.20~ ing) [GO](https://github.com/jjimini98/Backend_Interview_Question)
 
-🏃 Personal Project (21.03.21~ ing)    [GO](https://github.com/jjimini98/SecurityLight)                                                         
+<!--🏃 Personal Project (21.03.21~ ing)    [GO](https://github.com/jjimini98/SecurityLight)      -->                                                   
 <!--✍️ TIL(Today I Learned)  [GO](https://github.com/jjimini98/TIL)-->
 
    

@@ -8,7 +8,7 @@
 🤔 I'm interested in Backend, ML/DL          
 😎 I want to be an awesome developer :)                 
 
-💻 Tech Stack : Python, Java, SQL, R, C++, Git, Android Studio, Flask                                                 
+💻 Tech Stack : Python, Java, SQL, R, C++, Git, Android, Flask                                                 
 🌱 I’m currently learning  Flask,  C++, Algorithm          
 
 🧐 My personal Blog : https://growingarchive.tistory.com/             

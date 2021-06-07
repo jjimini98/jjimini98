@@ -9,7 +9,7 @@
 😎 I want to be an awesome developer :)                 
 
 💻 Tech Stack : Python, Java, SQL, R, C++, Git, Android, Flask                                                 
-🌱 I’m currently learning  Flask,  C++, Algorithm          
+🌱 I’m currently learning  Django, C++, Algorithm          
 
 🧐 My personal Blog : https://growingarchive.tistory.com/             
 📫 Contact : jjimini98@naver.com, [Instagram](https://www.instagram.com/ggrowingtree/), [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)       

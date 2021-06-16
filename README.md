@@ -11,7 +11,7 @@
 💻 Tech Stack : Python, Java, SQL, R, C++, Git, Android, Flask                                                 
 🌱 I’m currently learning  Django, C++, Algorithm          
 
-🧐 My personal Blog [GO](https://growingarchive.tistory.com/)             
+🧐 [My personal blog](https://growingarchive.tistory.com/)             
 📫 Contact : [E-mail](jjimini98@naver.com), [Instagram](https://www.instagram.com/ggrowingtree/), [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)       
 
 ✔️ 1 Day 1 Commit (2021.01.01~ ing)                                           

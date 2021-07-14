@@ -15,8 +15,8 @@
 📫 Contact : [E-mail](jjimini98@naver.com), [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)       
 
 ✔️ 1 Day 1 Commit (2021.01.01~ ing)                                           
-<!-- ✔️ 1 Day 1 BOJ (2021.03.05~ ing) [GO](https://github.com/jjimini98/Algorithm_Study)                                                                 
-✔️ 1 Day 1 BQ (2021.03.20~ ing) [GO](https://github.com/jjimini98/Backend_Interview_Question) -->
+✔️ 1 Day 1 BOJ (2021.03.05~ ing) [GO](https://github.com/jjimini98/Algorithm_Study)                                                                 
+<!--✔️ 1 Day 1 BQ (2021.03.20~ ing) [GO](https://github.com/jjimini98/Backend_Interview_Question) -->
 
 <!--🏃 Personal Project (21.03.21~ ing)    [GO](https://github.com/jjimini98/SecurityLight)      -->                                                   
 <!--✍️ TIL(Today I Learned)  [GO](https://github.com/jjimini98/TIL)-->

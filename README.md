@@ -24,8 +24,9 @@
    
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr 58 mins    ████████████████████████▒   97.95 % 
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Java         2 hrs 53 mins   ███████████████████████▒░   93.15 % 
+Python       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)

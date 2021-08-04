@@ -24,10 +24,10 @@
    
 <!--START_SECTION:waka-->
 ```text
-Other      18 hrs 53 mins  ██████████████████▒░░░░░░   73.98 % 
-Python     4 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.00 % 
-JSON       1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Java       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Other      19 hrs 13 mins  ██████████████░░░░░░░░░░░   56.38 % 
+Python     11 hrs 16 mins  ████████▒░░░░░░░░░░░░░░░░   33.04 % 
+JSON       3 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Java       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)

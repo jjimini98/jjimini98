@@ -24,7 +24,7 @@
    
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     22 mins         ████████████████████████░   96.55 % 
 ```
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)

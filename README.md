@@ -24,10 +24,9 @@
    
 <!--START_SECTION:waka-->
 ```text
-Other        7 hrs           ████████████▒░░░░░░░░░░░░   49.35 % 
-Markdown     3 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Python       3 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.82 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other      7 hrs 11 mins   █████████████▓░░░░░░░░░░░   55.10 % 
+Python     3 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.92 % 
+Markdown   2 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.94 % 
 ```
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)

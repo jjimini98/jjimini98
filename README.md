@@ -9,7 +9,7 @@
 😎 I want to be an awesome developer :)                 
 
 💻 Tech Stack : Python, Java, SQL, Git, Flask, Django,Firebase, MongoDB, MariaDB                                                       
-🌱 I’m currently learning SpringBoot       
+🌱 I’m currently learning Algorithme, SpringBoot       
 
 🧐 [My Personal Blog](https://growingarchive.tistory.com/)             
 📫 Contact : [Email](jjimini98@gmail.com) , [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/) , [Instagram](https://www.instagram.com/ggrowingtree/)   

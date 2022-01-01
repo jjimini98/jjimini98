@@ -8,7 +8,7 @@
 🤔 I'm interested in Backend         
 😎 I want to be an awesome developer :)                 
 
-💻 Tech Stack : Python, Java, SQL, C++, Git, Flask                                                
+💻 Tech Stack : Python, Java, SQL, Git, Flask, Django,Firebase, MongoDB, MariaDB                                                       
 🌱 I’m currently learning SpringBoot       
 
 🧐 [My Personal Blog](https://growingarchive.tistory.com/)             

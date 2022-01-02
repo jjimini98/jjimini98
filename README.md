@@ -24,7 +24,7 @@
    
 <!--START_SECTION:waka-->
 ```text
-
+Python   2 mins          ████████████████████░░░░░   80.26 % 
 ```
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)

@@ -24,11 +24,11 @@
    
 <!--START_SECTION:waka-->
 ```text
-Other        2 hrs 12 mins   ███████████░░░░░░░░░░░░░░   44.28 % 
-Python       1 hr 35 mins    ████████░░░░░░░░░░░░░░░░░   31.96 % 
-Java         48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-HTML         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other        2 hrs 12 mins   ███████████░░░░░░░░░░░░░░   44.64 % 
+Python       1 hr 35 mins    ████████░░░░░░░░░░░░░░░░░   32.22 % 
+Java         45 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+HTML         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)

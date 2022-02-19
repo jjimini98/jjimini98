@@ -24,10 +24,10 @@
    
 <!--START_SECTION:waka-->
 ```text
-Total: 3 hrs 42 mins
+Total: 6 hrs 58 mins
 
-Python       3 hrs 40 mins   ████████████████████████▓   99.24 % 
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Python     6 hrs 57 mins   █████████████████████████   99.60 % 
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)

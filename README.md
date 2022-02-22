@@ -9,7 +9,7 @@
 😎 I want to be an awesome developer :)                 
 
 💻 Tech Stack : Python, Java, SQL, Git, Flask, Django                                                     
-🌱 I’m currently learning Algorithm, SpringBoot       
+🌱 I’m currently learning Algorithm, Spring       
 
 🧐 [My Personal Blog](https://growingarchive.tistory.com/)             
 📫 Contact : [Email](jjimini98@gmail.com) , [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/) , [Instagram](https://www.instagram.com/tmyrvl/)   

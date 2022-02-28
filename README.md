@@ -23,13 +23,16 @@
 
    
 <!--START_SECTION:waka-->
+
 ```text
-Python       7 hrs 12 mins   ██████████████████░░░░░░░   71.75 % 
-Java         2 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.07 % 
-HTML         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Groovy       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Python           8 hrs 20 mins   ██████████████████▓░░░░░░   74.63 %
+Java             2 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+HTML             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Git Config       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Groovy           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
+
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

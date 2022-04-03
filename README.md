@@ -3,8 +3,11 @@
 
 
 👋Hello I'm Jimin Yoo  
+
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98&hide_rank=True)](https://github.com/anuraghazra/github-readme-stats) -->
+
  
-📚 Major :  Bigdata Engineering      
+📚 Major :  Bigdata Engineering                
 🤔 I'm interested in Backend         
 😎 I want to be an awesome developer :)                 
 
@@ -34,8 +37,8 @@ HTML             12 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98&hide_rank=True)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjimini98&hide_rank=True)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 

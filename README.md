@@ -14,7 +14,7 @@
 💻 Tech Stack : Python, Java, SQL, Git, Flask, Django                                                     
 🌱 I’m currently learning Algorithm, Spring       
 
-🧐 [My Personal Blog](https://growingarchive.tistory.com/)             
+<!-- 🧐 [My Personal Blog](https://growingarchive.tistory.com/)              -->
 <!-- 📫 Contact : [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/) , [Instagram](https://www.instagram.com/tmyrvl/)    -->
 
 ✔️ 1 Day 1 Commit (2021.01.01~ ing)                                           

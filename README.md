@@ -8,11 +8,12 @@
 
  
 📚 Major :  Bigdata Engineering                
-🤔 I'm interested in Backend         
-😎 I want to be an awesome developer :)                 
+😎 I want to be an awesome developer :)
+<!-- 🤔 I'm interested in Backend          -->
+                 
 
 💻 Tech Stack : Python, Java, SQL, Git, Flask, Django                                                     
-🌱 I’m currently learning Algorithm, Spring       
+🌱 I’m currently learning Algorithm    
 
 <!-- 🧐 [My Personal Blog](https://growingarchive.tistory.com/)              -->
 <!-- 📫 Contact : [LinkedIn](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/) , [Instagram](https://www.instagram.com/tmyrvl/)    -->

@@ -17,10 +17,11 @@
  💻 Tech Stack : Python, Java, Flask, Django, SpringBoot, MariaDB                                                  
 🌱 I’m currently learning Algorithm    
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjimini98)](https://solved.ac/jjimini98)
 [![Tech Blog Badge](http://img.shields.io/badge/-%20Blog-black?style=flat-square&logo=tistory&link=https://growingarchive.tistory.com/)](https://growingarchive.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)](https://www.linkedin.com/in/jimin-yoo-8b6aa0200/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjimini98@gmail.com)](mailto:jjimini98@gmail.com)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjimini98)](https://solved.ac/jjimini98)
+
 
 
 <!-- 🧐 [My Personal Blog](https://growingarchive.tistory.com/)              -->

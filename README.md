@@ -38,10 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 44 mins    ████████████████████████▒   97.02 %
-CSV          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

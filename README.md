@@ -38,9 +38,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python     1 hr 34 mins    ██████████████▓░░░░░░░░░░   58.10 %
-Markdown   1 hr 3 mins     █████████▓░░░░░░░░░░░░░░░   38.93 %
-Jupyter    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Python     2 hrs 8 mins    ████████████████▒░░░░░░░░   65.32 %
+Markdown   1 hr 3 mins     ████████░░░░░░░░░░░░░░░░░   32.21 %
+Jupyter    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->

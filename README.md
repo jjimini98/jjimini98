@@ -38,8 +38,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 5 mins     ███████████████████████░░   92.21 %
-Dart       5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Dart       1 hr 9 mins     ████████████▓░░░░░░░░░░░░   50.81 %
+Markdown   1 hr 7 mins     ████████████▒░░░░░░░░░░░░   49.19 %
 ```
 
 <!--END_SECTION:waka-->

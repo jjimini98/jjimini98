@@ -38,10 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter          2 hrs 10 mins   ████████████████████████▓   99.16 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-CSV/TSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Jupyter          5 hrs 3 mins    ████████████████████████▓   98.48 %
+CSV/TSV          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->

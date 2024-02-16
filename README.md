@@ -7,15 +7,15 @@
 
  
 📚 Major :  Bigdata Engineering                
-😎 I want to be an awesome developer :)         
-🤔 I'm interested in Data Science, Backend
+😎 I want to be an awesome Engineer :)         
+🤔 I'm interested in Data Science, QA
                  
 
 <!-- 💻 Tech Stack : <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>  --> 
 
 
- 💻 Tech Stack : Python, Java, Flask, Django, MySQL                                              
-🌱 I’m currently learning Algorithm    
+ 💻 Tech Stack : Python, Flask, Django, MySQL                                              
+🌱 I’m currently learning Quality Assurance, Algorithm    
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjimini98)](https://solved.ac/jjimini98)
 [![Tech Blog Badge](http://img.shields.io/badge/-%20Blog-black?style=flat-square&logo=tistory&link=https://growingarchive.tistory.com/)](https://growingarchive.tistory.com/)

@@ -38,9 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter   23 mins         █████████████████████▒░░░   85.50 %
-Python    3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-CSV/TSV   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

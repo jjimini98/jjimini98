@@ -38,9 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter   2 hrs 13 mins   ██████████████████████▓░░   90.94 %
-Dart      13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-Python    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

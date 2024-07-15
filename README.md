@@ -38,11 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 37 mins    ████████████████▒░░░░░░░░   64.92 %
-JavaScript       37 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
-Text             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-SQL              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Git Config       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

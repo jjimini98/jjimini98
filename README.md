@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter          4 hrs 45 mins   ███████████████████▒░░░░░   77.92 %
-Python           1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
-GitIgnore file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-textmate         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-CSV/TSV          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python           5 hrs 28 mins   █████████████░░░░░░░░░░░░   51.75 %
+Jupyter          4 hrs 45 mins   ███████████▒░░░░░░░░░░░░░   45.01 %
+GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+textmate         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+CSV/TSV          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->

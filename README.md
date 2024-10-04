@@ -38,8 +38,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python    22 mins         █████████████████████░░░░   84.56 %
-Gherkin   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+Gherkin   0 secs          ███████████████████████▓░   94.29 %
+Python    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
 ```
 
 <!--END_SECTION:waka-->

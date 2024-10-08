@@ -38,9 +38,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 45 mins    ████████████████████▒░░░░   81.30 %
-GitIgnore file   21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-Git Config       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Python           2 hrs 25 mins   █████████████████████▒░░░   85.72 %
+GitIgnore file   21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Git Config       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->

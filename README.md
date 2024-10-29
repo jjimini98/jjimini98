@@ -38,9 +38,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter          1 hr 41 mins    █████████████████░░░░░░░░   67.62 %
-Python           43 mins         ███████▒░░░░░░░░░░░░░░░░░   28.74 %
-GitIgnore file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Jupyter          1 hr 35 mins    █████████████████████▒░░░   85.43 %
+Python           16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

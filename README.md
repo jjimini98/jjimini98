@@ -49,6 +49,13 @@ Text       0 secs          ░░░░░░░░░░░░░░░░░�
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jjimini98"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 **jjimini98/jjimini98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

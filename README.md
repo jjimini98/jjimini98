@@ -49,13 +49,15 @@ Text       0 secs          ░░░░░░░░░░░░░░░░░�
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjimini98&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/jjimini98"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/jjimini98?pet-id=644389700674523001"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 
 

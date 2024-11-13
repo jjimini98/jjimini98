@@ -51,14 +51,12 @@ Text       0 secs          ░░░░░░░░░░░░░░░░░�
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/jjimini98?pet-id=644389700674523001"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/jjimini98"
+  width="600"
+  height="300"
+/>
 </a>
-  
-
 
 
 <!--

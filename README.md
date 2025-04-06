@@ -38,11 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown    3 mins          ████████████████████████░   96.43 %
-Python      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

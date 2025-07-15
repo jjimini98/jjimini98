@@ -38,9 +38,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java       2 hrs 44 mins   ██████████▒░░░░░░░░░░░░░░   41.39 %
-Markdown   2 hrs 35 mins   █████████▓░░░░░░░░░░░░░░░   39.16 %
-Python     1 hr 17 mins    █████░░░░░░░░░░░░░░░░░░░░   19.45 %
+Markdown   2 hrs 10 mins   ███████████████▓░░░░░░░░░   63.31 %
+Java       1 hr 15 mins    █████████▒░░░░░░░░░░░░░░░   36.69 %
 ```
 
 <!--END_SECTION:waka-->

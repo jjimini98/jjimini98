@@ -38,7 +38,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   44 mins         █████████████████████████   100.00 %
+Markdown   42 mins         █████████████████████████   99.98 %
+Java       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
